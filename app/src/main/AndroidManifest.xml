@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PapasConChorizo">
         <activity
+            android:parentActivityName=".TwoActivity"
             android:name=".ThreeActivity"
             android:exported="false" />
         <activity
